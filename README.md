@@ -1,2 +1,2 @@
-Quiz Deployed at:- https://github.com/gnsharma/online-quiz
+Quiz is deployed at:- https://github.com/gnsharma/online-quiz
 
